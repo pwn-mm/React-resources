@@ -9,7 +9,7 @@ FYI : Please do not learn from w3 school! 🙄😛 </i></b>
 <b> While you're learning, if you think you are stack in tutorial hell, go to codewars, hackerrank, kattis, frontend mentor and solve the coding challenges. <br>
   Moreover, you can create account on freelance platforms like Upwork, Fiverr, Hubstaff and try to make projects by yourself. </b>
 
-## Fundamental (javascript,clean code, es6) ##
+## Fundamental (javascript, clean code, es6) ##
 
 Clean code  -  (https://drive.google.com/file/d/1ZNmIbl_82kdGYgCGNPbVOicfpnXbSl-E/view?usp=sharing) <br/>
 Javascript data structures and algorithms - (https://drive.google.com/file/d/16rzo9w7ovhyWdbEfnqomayISl3d7WOTT/view?usp=sharing)
@@ -51,7 +51,8 @@ How to use hooks      - https://www.freecodecamp.org/news/beginners-guide-to-usi
 Build your own hooks  - https://www.youtube.com/watch?v=TNhaISOUy6Q </br>
 Component lifecycle   - https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093 </br>
 
-## Learn by coding projects ## (Some of the projects are a little bit difficult but good luck and bear with them :3 )
+## Learn by coding projects ## 
+### (Some of the projects are a little bit difficult but good luck and bear with them :3 ) ###
 
 Beginner projects   - https://www.blog.duomly.com/9-react-js-projects-for-beginners-that-will-help-you-to-build-an-amazing-portfolio-and-get-hired/#1-currency-calculator </br>
 Project ideas       - https://www.youtube.com/watch?v=sk66TjOVcvY </br>
