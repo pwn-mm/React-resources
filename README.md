@@ -37,6 +37,7 @@ Intro to React        - https://medium.com/delta-force/introduction-to-react-8c5
 Basics                - https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7 <br/>
 Class Components      - https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909 <br/>
 What is npx?          - https://www.educative.io/edpresso/what-is-npx
+Npx / Npm ?           - https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm
 
 ## React basic course lists ##
 
