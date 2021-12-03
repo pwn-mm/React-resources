@@ -36,6 +36,7 @@ React in 100seconds   - https://www.youtube.com/watch?v=Tn6-PIqc4UM <br/>
 Intro to React        - https://medium.com/delta-force/introduction-to-react-8c58de2af2b1 <br/>
 Basics                - https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7 <br/>
 Class Components      - https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909 <br/>
+What is npx?          - https://www.educative.io/edpresso/what-is-npx
 
 ## React basic course lists ##
 
