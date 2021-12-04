@@ -36,8 +36,9 @@ React in 100seconds   - https://www.youtube.com/watch?v=Tn6-PIqc4UM <br/>
 Intro to React        - https://medium.com/delta-force/introduction-to-react-8c58de2af2b1 <br/>
 Basics                - https://codeburst.io/react-js-for-beginners-the-basics-87ef6e54dae7 <br/>
 Class Components      - https://codeburst.io/react-js-understanding-functional-class-components-e65d723e909 <br/>
-What is npx?          - https://www.educative.io/edpresso/what-is-npx
-Npx / Npm ?           - https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm
+What is npx?          - https://www.educative.io/edpresso/what-is-npx </br>
+Npx / Npm ?           - https://stackoverflow.com/questions/50605219/difference-between-npx-and-npm </br>
+Fundamentals          - https://medium.com/free-code-camp/these-react-fundamentals-you-skip-may-be-killing-you-7629fb87dd4a
 
 ## React basic course lists ##
 
@@ -49,6 +50,7 @@ Scrimba               - https://scrimba.com/learn/learnreact 👍👍👍
 Redux explained       - https://medium.com/leanjs/introduction-to-redux-redux-explained-with-very-simple-examples-b39d7967ceb8 </br>
 Redux                 - https://www.youtube.com/watch?v=9jULHSe41ls </br>
 Hooks explained       - https://dev.to/abhisheknaiidu/10-react-hooks-explained-3ino </br>
+Basic of hooks        - https://medium.com/free-code-camp/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d </br>
 How to use hooks      - https://www.freecodecamp.org/news/beginners-guide-to-using-react-hooks </br>
 Build your own hooks  - https://www.youtube.com/watch?v=TNhaISOUy6Q </br>
 Component lifecycle   - https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093 </br>
