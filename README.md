@@ -3,11 +3,11 @@
 React road map 
 https://roadmap.sh/roadmaps/react.png
 
-<b><i>I assume you have already known basic html, css and javascript. </br>
+<b><i>I assume you already know basic html, css and javascript. </br>
 FYI : Please do not learn from w3 school! 🙄😛 </i></b>
   
-<b> While you're learning, if you think you are stack in tutorial hell, go to codewars, hackerrank, kattis, frontend mentor and solve the coding challenges. <br>
-  Moreover, you can create account on freelance platforms like Upwork, Fiverr, Hubstaff and try to make projects by yourself. </b>
+<b> While you're learning, if you think you're stuck in tutorial hell, go to codewars, hackerrank, kattis, frontend mentor and solve the coding challenges. <br>
+  Moreover, you can create accounts on freelance platforms like Upwork, Fiverr, Hubstaff and try to make projects by yourself. </b>
 
 ## Fundamental (javascript, clean code, es6) ##
 
@@ -17,7 +17,7 @@ Javascript data structures and algorithms - (https://drive.google.com/file/d/16r
 
 ## Introduction to Javascript ##
 
-Javascript featurs  - https://medium.com/@viral_shah/little-known-features-of-javascript-901665291387 <br/>
+Javascript features  - https://medium.com/@viral_shah/little-known-features-of-javascript-901665291387 <br/>
 How Does JS works   - https://medium.com/technogise/how-does-javascript-work-internally-6b48970046ef <br/>
 JS array methods    - https://drive.google.com/file/d/1oX5Jc5QbHOmzKH5TNs728u9IPr3ksaqO/view?usp=sharing <br/>
 JS study plan       - https://medium.com/free-code-camp/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1 <br/>
